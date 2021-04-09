@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T00:38:07.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="Hye2ebN4NdiI-OUjH6J_" version="14.5.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-09T01:10:02.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="sMF1bJQTpqOa8bi3_GYE" version="14.5.8" type="github" pages="3">
   <diagram id="hxVoLxP11JMJfh7_TCrf" name="Page-1">
     <mxGraphModel dx="2332" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -353,8 +353,8 @@
         <mxCell id="r-DXQ-UGE9ieViQTVBDR-72" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r-DXQ-UGE9ieViQTVBDR-83" value="Description&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="175" width="70" height="70" as="geometry" />
+        <mxCell id="r-DXQ-UGE9ieViQTVBDR-83" value="&lt;font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Description:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The main program or Interpreter will &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;hav a parser to parse through all the&amp;nbsp;files that will be&amp;nbsp;&lt;br&gt;passed into the main method. The main methods will then&amp;nbsp;&lt;br&gt;pass the instructions from the parser to create a parser and execute it.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="-50" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Fg2zlbhCByVR0dAfRBkE-1" value="file" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="160" width="140" height="50" as="geometry" />
